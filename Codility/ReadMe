@@ -1,0 +1,3 @@
+Task:
+
+Make a class that will splits input into words and sort them by the length, removing anagrams
