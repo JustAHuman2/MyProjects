@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+	<groups group_id='0' />
+	<groups group_id='1' group_name='First' />
+	<groups group_id='2' group_name='Second' />
+	<groups group_id='3' group_name='Third' />
+	<students student_id='1' first_name='StudentOne'
+		last_name='One' group_id='1' />
+ 	<students student_id='2' first_name='StudentTwo'
+		last_name='Two' group_id='1' />
+	<students student_id='3' first_name='StudentThree'
+		last_name='Three' group_id='2' />
+	<students student_id='4' first_name='StudentFour'
+		last_name='Four' group_id='2' />
+	<students student_id='5' first_name='StudentFive'
+		last_name='Five' group_id='3' />
+ 
+
+	<courses course_id='1' course_name='Algebra'
+		course_description='Some description' />
+	<courses course_id='2' course_name='Geometry'
+		course_description='Another description' />
+
+	<student_courses student_id='1' course_id='1' />
+	<student_courses student_id='1' course_id='2' />
+	<student_courses student_id='2' course_id='1' />
+	<student_courses student_id='3' course_id='1' />
+	<student_courses student_id='4' course_id='2' />
+	<student_courses student_id='5' course_id='2' />
+</dataset>

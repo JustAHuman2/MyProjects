@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+	<groups group_id='0' />
+	<students student_id='1' first_name='Andrey'
+		last_name='Ivanov' group_id='0' />
+	<courses course_id='1' course_name='Algebra'
+		course_description='Some description' />
+	<courses course_id='2' course_name='Geometry'
+		course_description='Another description' />
+	<student_courses student_id='1' course_id='1' />
+</dataset>
