@@ -1,4 +1,4 @@
-package com.tsystems.javaschool.tasks.calculator;
+package com.tsystems.tasks.calculator;
 
 import java.util.Stack;
 

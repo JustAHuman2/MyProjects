@@ -1,4 +1,4 @@
-package com.tsystems.javaschool.tasks.pyramid;
+package com.tsystems.tasks.pyramid;
 
 import java.util.ArrayList;
 import java.util.Arrays;
