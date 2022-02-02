@@ -21,7 +21,7 @@
     </build>
     <properties>
         <spring.framework>5.2.1.RELEASE</spring.framework>
-        <postgres.version>42.2.5</postgres.version>
+        <postgres.version>42.2.25</postgres.version>
     </properties>
     <dependencies>
         <dependency>
