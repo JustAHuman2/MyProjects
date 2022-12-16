@@ -20,7 +20,7 @@
         </plugins>
     </build>
     <properties>
-        <spring.framework>5.2.1.RELEASE</spring.framework>
+        <spring.framework>5.2.20.RELEASE</spring.framework>
         <postgres.version>42.2.5</postgres.version>
     </properties>
     <dependencies>
